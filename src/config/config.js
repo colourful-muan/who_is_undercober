@@ -1,0 +1,1 @@
+export const socket_url='http://10.18.250.198:3002'
